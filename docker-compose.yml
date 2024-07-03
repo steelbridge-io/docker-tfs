@@ -38,6 +38,7 @@ services:
       WORDPRESS_DB_PASSWORD: wordpress
       WORDPRESS_DB_NAME: wordpress
       WORDPRESS_TABLE_PREFIX: mswp_
+      WORDPRESS_DEBUG: true
     volumes:
       - ./wordpress:/var/www/html
 
