@@ -8,7 +8,7 @@
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
-      <option name="name" value="SCSS" />
+      <option name="name" value="The Fly Shop" />
       <option name="output" value="$ProjectFileDir$/wordpress/wp-content/themes/the-fly-shop/assets/css/$FileNameWithoutExtension$.css:$ProjectFileDir$/wordpress/wp-content/themes/the-fly-shop/assets/css/$FileNameWithoutExtension$.css.map" />
       <option name="outputFilters">
         <array />
@@ -16,27 +16,47 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="sass" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="the-fly-shop" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$:$ProjectFileDir$/wordpress/wp-content/themes/lavacreek-child-theme/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--update $FileName$:$ProjectFileDir$/wordpress/wp-content/themes/lavacreek-child-theme/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="lava creek child theme" />
-      <option name="output" value="$ProjectFileDir$/wordpress/wp-content/themes/lavacreek-child-theme/assets/scss/$FileNameWithoutExtension$.css:$ProjectFileDir$/wordpress/wp-content/themes/lavacreek-child-theme/scss/$FileNameWithoutExtension$.css.map" />
+      <option name="output" value="$ProjectFileDir$/wordpress/wp-content/themes/lavacreek-child-theme/assets/scss/$FileNameWithoutExtension$.css:$ProjectFileDir$/wordpress/wp-content/themes/lavacreek-child-theme/assets/scss/$FileNameWithoutExtension$.css.map" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="sass" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="lava-creek-child-theme" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--update $FileName$:$ProjectFileDir$/wordpress/wp-content/themes/kola-reserve-child-theme/$FileNameWithoutExtension$.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="kola reserve child theme" />
+      <option name="output" value="$ProjectFileDir$/wordpress/wp-content/themes/kola-reserve-child-theme/assets/scss/$FileNameWithoutExtension$.css:$ProjectFileDir$/wordpress/wp-content/themes/kola-reserve-child-theme/assets/scss/$FileNameWithoutExtension$.css.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="sass" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="kola-reserve-child-theme" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
