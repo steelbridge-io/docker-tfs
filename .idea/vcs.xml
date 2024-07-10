@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/plugins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/guide-service-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/kola-reserve-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/lavacreek-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/tfs-parent-theme" vcs="Git" />
