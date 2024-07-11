@@ -221,5 +221,25 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--update $FileName$:$ProjectFileDir$/wordpress/wp-content/themes/two-handed-fish-child-theme/$FileNameWithoutExtension$.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="two handed fish child theme" />
+      <option name="output" value="$ProjectFileDir$/wordpress/wp-content/themes/two-handed-fish-child-theme/assets/scss/$FileNameWithoutExtension$.css:$ProjectFileDir$/wordpress/wp-content/themes/two-handed-fish-child-theme/assets/scss/$FileNameWithoutExtension$.css.map" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="sass" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="two-handed-fish-child-theme" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
   </component>
 </project>
