@@ -39,8 +39,11 @@ services:
       WORDPRESS_DB_NAME: wordpress
       WORDPRESS_TABLE_PREFIX: mswp_
       WORDPRESS_DEBUG: true
+
     volumes:
       - ./wordpress:/var/www/html
+    command: bash -c "echo 'memory_limit = 1024M' >> /usr/local/etc/php/conf.d/memory-limit.ini && apache2-foreground"
+
 
   wpcli:
     platform: linux/amd64
