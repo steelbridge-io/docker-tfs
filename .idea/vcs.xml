@@ -7,11 +7,9 @@
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/bollibokka-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/espiritu-santo-bay-lodge-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/fly-fishing-schools-child-theme" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/fly-fishing-travel-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/guide-service-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/kids-fish-camp-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/kola-reserve-child-theme" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/lavacreek-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/private-waters-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/tfs-parent-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/the-fly-shop" vcs="Git" />
