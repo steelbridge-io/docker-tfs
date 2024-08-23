@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/guide-service-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/kids-fish-camp-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/kola-reserve-child-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/lavacreek-child-theme-2024" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/private-waters-child-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/tfs-parent-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wordpress/wp-content/themes/the-fly-shop" vcs="Git" />
