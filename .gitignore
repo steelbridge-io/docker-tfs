@@ -1,5 +1,5 @@
 /wordpress/*
 /password.txt
-/.idea/*
-/.idea/*.xml
+/.idea/
 /.git/*
+/vcs.xml
